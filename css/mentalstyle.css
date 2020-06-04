@@ -1,0 +1,61 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: url(../img/fondo2.jpg);
+}
+
+.header{
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.fondoUno{
+    background-image: url(../img/fondo_enfermedad.jpg); 
+    height: 25rem;
+    padding: 10%;
+}
+.fondoDos{
+    height: 25rem;
+    padding: 10%;
+    font-weight: 600;
+    text-align: right;
+}
+
+.centrar{
+    text-align: center;
+}
+
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    word-spacing: 1em;
+    text-align: right;
+    background-color: #bbdefb;
+    color: teal;
+    padding-top: 6%;
+}
+
+.fondoContenido{
+
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+}
+
+.fondoFormulario{
+    margin: 1%;
+    padding: 1%;
+}
+
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    color: teal;
+    padding-top: 0.3em;
+}
+
+
+

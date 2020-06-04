@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/fondo2.jpg);
+}
+
+nav{
+    background-color: rgb(72, 3, 136);
+    height: 6em;
+    }
+
+li{
+    background-color: rgb(253, 101, 253);
+    margin-left: 1em;
+    font-weight: bold;
+}
+
+.maxnav{
+    max-width: 25% !important;
+}
+
+h3{
+    /*padding-left: 9em; Así centré la imagen sin bootstrap*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    color: white;
+} 
+
+.carousel-inner{
+    margin: auto;
+    padding-top: 7%;
+    padding-bottom: 1%;
+}
+
+.video{
+    text-align: center;
+    padding: 0;
+}
+
+video{
+    width: 70%;
+}
+
+video{
+    width:70%;
+    max-width:120em;
+}
+
+
+.contenido{
+    margin: auto;
+    width: 85%;
+    max-width: 120em;
+    padding-top: 2%;
+    text-align: justify;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(72, 3, 136);
+    background-color: whitesmoke;
+}
+
+img{
+    padding-left: 1em;
+    float: left;
+}
+
+p{
+    padding: 2%;
+}
+
+h6{
+    padding: 1em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+#columns{
+    background-color:#088A68;
+    text-align: center;
+    color:white;
+    font-size: 1em;
+    border-left: inset turquoise;
+}
+
+.redes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.redes img{
+   width: 15%;
+}
+
+#columns1{
+    background-color: rgb(72, 3, 136);
+    color:white;
+    font-size: 0.7em;
+    text-align: center;
+    font-family: cursive;
+}
+
+
